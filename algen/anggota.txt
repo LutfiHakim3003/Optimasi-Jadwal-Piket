@@ -1,0 +1,111 @@
+Iqbal Caraka Altino,145150407111063,Sistem Infomasi 2014,Presiden BEM FILKOM UB
+Mochammad Pratama Viadi,145150207111087,Teknik Informatika 2014,Wakil Presiden BEM FILKOM UB
+Muhammad Rizqinovniari,145150401111061,Sistem Informasi 2014,Koordinator Internal Quality Assurance
+Erwina Nur Amalina,155150407111019,Sistem Informasi 2015,Staff Internal Quality Assurance
+Putri Bunga Rahmalita,155150201111037,Teknik Informatika 2015,Staff  Internal Quality Assurance
+Yhanuar Alkhamislam,145150400111062,Sistem Informasi 2014,Staff Internal Quality Assurance
+Muhammad Fattah Na'im Pang Ripto,155150201111272,Teknik Informatika 2015,Staff Internal Quality Assurance
+Afifahlya Alif Rizyomi,145150400111095,Sistem Informasi 2014,Bendahara I
+Sarah Anindya Shofi,155150407111028,Sistem Informasi 2015,Bendahara II
+Andry Lesmana Japrianta,145150400111001,Sistem Informasi 2014,Menteri Koordinator Kepemudaan
+Mochammad Ali Hafidz,145150400111065,Sistem Informasi 2014,Menteri Pengembangan Sumber Daya Mahasiswa
+Faris Bagaskoro,155150400111054,Sistem Informasi 2015,Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Samuel Ricko Perdana Putra,155150201111098,Teknik Informatika 2015,Staff Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Firza Nur Hibatullah,165150201111183,Teknik Informatika 2016,Staff Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Alexander Jesse Andy Firdaus,165150400111065,Sistem Informasi 2016,Staff Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Athayya Salsabila Anandityo,165150401111033,Sistem Informasi 2016,Staff Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Raisadya Hemas Pawestri,165150400111055,Sistem Informasi 2016,Staff Direktorat Jenderal Pengembangan dan Pemberdayaan Mahasiswa
+Muhammad Al Irsyad Pahlevi Susilo,155150207111046,Teknik Informatika 2015,Direktorat Jenderal Kaderisasi
+Ulul albab khatami,155150207111125,Teknik Informatika 2015, Staff Direktorat Jenderal Kaderisasi
+M. Fachreyza P. P. ,165150400111052,Sistem Informasi 2016, Staff Direktorat Jenderal Kaderisasi
+Ilma Bunga Sahara,165150401111080,Sistem Informasi 2016, Staff Direktorat Jenderal Kaderisasi
+Farisa Aidilla Alfas,165150400111018,Sistem Informasi 2016, Staff Direktorat Jenderal Kaderisasi
+Naufal Alfarizi,165150701111019,Teknologi Informasi 2016, Staff Direktorat Jenderal Kaderisasi
+Muhammad Mishbahul Munir,145150200111181,Teknik Informatika 2014,Menteri Karya Prestatif
+Ali Fikri,145150407111074,Sistem Informasi 2014,Direktorat Jenderal Implementasi Keilmuan
+Muhammad Ulul Albab Iriyanto,155150401111029,Sistem Informasi 2015,Staff Direktorat Jenderal Implementasi Keilmuan
+Albert Bill Alroy,155150201111087,Teknik Informatika 2015,Staff Direktorat Jenderal Implementasi Keilmuan
+Andika Fatimah Az-Zahra,165150401111037,Sistem Informasi 2016,Staff Direktorat Jenderal Implementasi Keilmuan
+Dary Ardiansyah Haryono,165150200111107,Teknik Informatika 2016,Staff Direktorat Jenderal Implementasi Keilmuan
+Rafiqah Majidah,155150200111211,Teknik Informatika 2015,Direktorat Jenderal Pengembangan Keilmuan
+Ivan,155150207111170,Teknik Informatika 2015,Staff Direktorat Jenderal Pengembangan Keilmuan
+Muhammad Hakiem,155150201111298,Teknik Informatika 2015,Staff Direktorat Jenderal Pengembangan Keilmuan
+Rohayat Widiantari,155150400111042,Sistem Informasi 2015,Staff Direktorat Jenderal Pengembangan Keilmuan
+Dwi Retno Ningrum,165150701111004,Teknologi Informasi 2016,Staff Direktorat Jenderal Pengembangan Keilmuan
+Hana Talitha Iddo Driantami,145150400111053,Sistem Informasi 2014,Menteri Ekonomi
+Anugrah Rasisputra,155150201111184,Teknik Informatika 2015,Wakil Menteri Ekonomi
+Muhammad Rafsan Adhizar,155150201111113,Teknik Informatika 2015,Staff Kementerian Ekonomi
+Karita Puspitasari,155150401111009,Sistem Informasi 2015,Staff Kementerian Ekonomi
+Savero Muhammad Syahrizal,155150400111052,Sistem Informasi 2015,Staff Kementerian Ekonomi
+Wreda Beny Ramdhany,155150401111002,Sistem Informasi 2015,Staff Kementerian Ekonomi
+Dindy Fitriannora,155150201111373,Teknik Informatika 2015,Staff Kementerian Ekonomi
+Salsabila Insani,165150201111030,Teknik Informatika 2016,Staff Kementerian Ekonomi
+Vivin Vidia Nurdiansyah,165150201111011,Teknik Informatika 2016,Staff Kementerian Ekonomi
+Gogot Alam Anpurnan,145150201111087,Teknik Informatika 2014,Menteri Dalam Negeri
+M. Ibrahim Al Ghazi Saragi,155150400111063,Sistem Informasi 2015,Wakil Menteri Dalam Negeri
+Nurlailani Sabrina Desie,155150200111263,Teknik Informatika 2015,Staff Kementerian Dalam Negeri
+Maulida Sabrina,155150400111006,Sistem Informasi 2015,Staff Kementerian Dalam Negeri
+Ofi Eka Novyanti,155150207111101,Teknik Informatika 2015,Staff Kementerian Dalam Negeri
+Yuninda Eka Nisrina,165150707111005,Teknologi Informasi 2016,Staff Kementerian Dalam Negeri
+Ghany Abdillah Ersa,165150401111060,Sistem Informasi 2016,Staff Kementerian Dalam Negeri
+Restian Parengga,165150407111018,Sistem Informasi 2016,Staff Kementerian Dalam Negeri
+Ain Nur Anisa,165150401111016,Sistem Informasi 2016,Staff Kementerian Dalam Negeri
+Masagus Hariadi Arief,145150401111065,Sistem Informasi 2014,Menteri Koordinator Sosial Politik
+Meylisa Dwiyati Marali,145150200111179,Teknik Informatika 2014,Menteri Sosial Masyarakat
+Ubaidillah Hakim Fadly,155150201111290,Teknik Informatika 2015,Wakil Menteri Sosial Masyarakat
+Hana Attaumi,155150401111007,Sistem Informasi 2015,Staff Kementerian Sosial Masyarakat
+Aditya Chamim Pratama,155150207111081,Teknik Informatika 2015,Staff Kementerian Sosial Masyarakat
+Moh. Wahyu Dwi Ridiansyah,155150200111232,Teknik Informatika 2015,Staff Kementerian Sosial Masyarakat
+Eka Devi Prasetiya,155150201111402,Teknik Informatika 2015,Staff Kementerian Sosial Masyarakat
+Yusuf Kurniawan,155150401111079,Sistem Informasi 2015,Staff Kementerian Sosial Masyarakat
+Brian Nur Islahuddin,165150407111010,Sistem Informasi 2016,Staff Kementerian Sosial Masyarakat
+Virdha Rahma Aulia,165150400111035,Sistem Informasi 2016,Staff Kementerian Sosial Masyarakat
+Bagus Arie Wicaksono,165150400111061,Sistem Informasi 2016,Staff Kementerian Sosial Masyarakat
+Salsabila Multazam,165150207111031,Teknik Informatika 2016,Staff Kementerian Sosial Masyarakat
+Tuti Wardani Hamid,145150201111155,Teknik Informatika 2014,Menteri Advokasi dan Kesejahteraan Mahasiswa
+Agung Wahyu Setio Budi,155150200111070,Teknik Informatika 2015,Direktorat Jenderal Advokasi Kebijakan Kampus
+Prita Nur Rizky Faridiani,155150200111197,Teknik Informatika 2015,Staff Direktorat Jenderal Advokasi Kebijakan Kampus
+Faiz Elyuan Permana,165150407111058,Sistem Informasi 2016,Staff Direktorat Jenderal Advokasi Kebijakan Kampus
+Armansyah,165150201111222,Teknik Informatika 2016,Staff Direktorat Jenderal Advokasi Kebijakan Kampus
+Aulia Dwi Fitriani,165150407111061,Sistem Informasi 2016,Staff Direktorat Jenderal Advokasi Kebijakan Kampus
+Alfa Yolanda Putri Y.,155150207111018,Teknik Informatika 2015,Direktorat Jenderal Kesejahteraan Mahasiswa
+Pahlevi Muhammad,155150200111068,Teknik Informatika 2015,Staff Direktorat Jenderal Kesejahteraan Mahasiswa
+Anjumi Kholifatu Rahmatika,165150207111026,Teknik Informatika 2015,Staff Direktorat Jenderal Kesejahteraan Mahasiswa
+Dwi Juni Kartika,165150201111051,Teknik Informatika 2016,Staff Direktorat Jenderal Kesejahteraan Mahasiswa
+Ammar Waliyuddin Jannah,165150307111029,Teknik Komputer 2016,Staff Direktorat Jenderal Kesejahteraan Mahasiswa
+Farhan Caesarian,155150207111140,Teknik Informatika 2015,Menteri Kajian dan Aksi Strategis
+Indriyana Liliasari Rahma Yusvi,165150209111007,Teknik Informatika 2016,Wakil Menteri Kajian dan Aksi Strategis
+Anvel,155150401111006,Sistem Informasi 2015,Staff Kementerian Kajian dan Aksi Strategis
+Putri Rahma Iriani,155150201111389,Teknik Informatika 2015,Staff Kementerian Kajian dan Aksi Strategis
+Muhammad Fadel Yudistira,165150207111040,Teknik Informatika 2015,Staff Kementerian Kajian dan Aksi Strategis
+Ady Ramadhan Putra,155150400111072,Sistem Informasi 2015,Staff Kementerian Kajian dan Aksi Strategis
+Muhammad Aditya Pramudita,155150201111262,Teknik Informatika 2015,Staff Kementerian Kajian dan Aksi Strategis
+Yauma Dzikri Imany,155150407111026,Sistem Informasi 2015,Staff Kementerian Kajian dan Aksi Strategis
+Cheka Cakrecjwara Al Kindi,165150200111032,Teknik Informatika 2016,Staff Kementerian Kajian dan Aksi Strategis
+Renaldi Muhammad,165150701111021,Teknologi Informasi 2016,Staff Kementerian Kajian dan Aksi Strategis
+Amir Saqib Azhardika,165150207111090,Teknik Informatika 2016,Staff Kementerian Kajian dan Aksi Strategis
+Cindy Felita Nur Alimah S,145150400111049,Sistem Informasi 2014,Kepala Biro Media Kreatif
+Muhammad Fadhil,155150407111029,Sistem Informasi 2015,Wakil Kepala Biro Media Kreatif
+Muhammad Luthfi Dani Kamil,155150401111039,Sistem Informasi 2015,Staff Biro Media Kreatif
+Muhammad Ichwan Pradana ,155150201111100,Teknik Informatika 2015,Staff Biro Media Kreatif
+Fajri Fernanda,155150201111306,Teknik Informatika 2015,Staff Biro Media Kreatif
+Dyva Agna Fauzan,155150200111254,Teknik Informatika 2015,Staff Biro Media Kreatif
+Lina Fitra,165150200111138,Teknik Informatika 2016,Staff Biro Media Kreatif
+Aditya Evan Yudistira,165150401111061,Sistem Informasi 2016,Staff Biro Media Kreatif
+Nadya Rahmasari,165150407111024,Sistem Informasi 2016,Staff Biro Media Kreatif
+Widi Aditama,165150207111055,Teknik Informatika 2016,Staff Biro Media Kreatif
+Intan Fatmawati,145150300111076,Teknik Komputer 2014,Kepala Biro Administrasi dan Kesekretariatan
+Dini Nurhayati,156150600111009,Pendidikan Teknologi Informasi 2015,Wakil Kepala Biro Administrasi dan Kesekretariatan
+Ni Luh Irma Arini,155150200111112,Teknik Informatika 2015,Staff Biro Administrasi dan Kesekretariatan
+Katherine Ivana Ruslim,155150207111121,Teknik Informatika 2015,Staff Biro Administrasi dan Kesekretariatan
+Priscillia Pravina Putri Sugihartono,165150201111144,Teknik Informatika 2016,Staff Biro Administrasi dan Kesekretariatan
+Nilna Minhatillah,15515040711100,Sistem Informasi 2015,Staff Biro Administrasi dan Kesekretariatan
+Siti Saudah Warsiono,145150400111112,Sistem Informasi 2014,Kepala Biro Hubungan Masyarakat
+Uzlah Mawali Kubro,155150201111264,Teknik Informatika 2015,Wakil Kepala Biro Hubungan Masyarakat
+Wira Kumara,155150400111039,Sistem Informasi 2015,Staff Biro Hubungan Masyarakat
+Mahendra Okza Pradhana,165150200111079,Teknik Informatika 2016,Staff Biro Hubungan Masyarakat
+Muhammad Amir Razzak,165150701111009,Teknologi Informasi 2016,Staff Biro Hubungan Masyarakat
+A. Gita Mutiara Fathony,165150201111267,Teknik Informatika 2016,Staff Biro Hubungan Masyarakat
+Isa Rahmat Arwata,165150207111034,Teknik Informatika 2016,Staff Biro Hubungan Masyarakat
+Bella Hersy Lavenia,165150700111001,Teknologi Informasi 2016,Staff Biro Hubungan Masyarakat
+Beuty Ayu Fambudi,165150201111208,Teknik Informatika 2016,Staff Biro Hubungan Masyarakat
